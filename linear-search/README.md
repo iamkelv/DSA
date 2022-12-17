@@ -1,14 +1,4 @@
-<div align="center">
-
-# technical-writing-template
-
-A sample template for writing a technical article :unicorn: <br />
-
-**[👉 View the template 👈](https://github.com/BolajiAyodeji/technical-writing-template/blob/master/TEMPLATE.md)**
-
-</div>
-
-## Template Headings
+## Linear Search
 
 ```
 ## Title
@@ -26,7 +16,7 @@ A sample template for writing a technical article :unicorn: <br />
 
 ---
 
-## Title
+## Linear Search
 
 As the name implies, this is the title of your article which describes what your article entails. Ensure to use title case here.
 
@@ -35,6 +25,7 @@ As the name implies, this is the title of your article which describes what your
 - (Optional) Include the tool(s) the reader will use to accomplish that goal.
 
 Here are some examples:
+
 - **Accessibility Auditing with Axe for Automated Web UI Testing**
 - **How to Deploy a Node Application and Database to Heroku**
 - **Handling Static Forms, The Client-side Way**
