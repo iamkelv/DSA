@@ -1,12 +1,4 @@
-<div align="center">
 
-# technical-writing-template
-
-A sample template for writing a technical article :unicorn: <br />
-
-**[👉 View the template 👈](https://github.com/BolajiAyodeji/technical-writing-template/blob/master/TEMPLATE.md)**
-
-</div>
 
 ## Template Headings
 
